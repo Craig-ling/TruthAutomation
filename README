@@ -1,3 +1,3 @@
 This repository contains two python programs. The programs take as input propositional logic statements and computes 
 the necessary truth values. The classifier program goes further and classifies the statements as either tautologies,
-contradictions or contingencies.
+contradictions, or contingencies.
